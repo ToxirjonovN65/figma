@@ -5,17 +5,70 @@
 }
 .sayt{
 width: 1200px;
-height: 600px;
+height: 500px;
 border: 2px solid  black;
+display: flex;
+
+
 }
+.box{
+width: 600px;
+height: 100%;
+background-color: black;
 
 
+}
+.mox{
+width: 600px;
+height: 100%;
+background: url("../zor.png") no-repeat center center / cover;
 
+}
+.box h2{
+color: white;
+text-transform: uppercase;
+font-weight: 200;
+font-size: 18px;
+padding-top: 140px;
+padding-left: 80px;
+}
+.box h1{
+color: white;
+font-weight: 400;
+font-size: 30px;
+padding-left: 80px;
 
+}
+.box h5{
+    color: white;
+    padding-left: 80px;
+    padding-right: 100px;
+    padding-top: 10px;
+}
+.box button{
+width: 160px;
+border-radius: 15px;
+margin-left: 80px;
+margin-top: 15px;
+display: flex;
+height: 50px;
+align-items: center;
 
+}
+.b-ich{
+width: 30px;
+height: 30px;
+background-color: black;
+margin-bottom: 5px;
+margin-left: -10px;
+border-radius: 12px;
 
-
-
+}
+.box button h6{
+    font-size: 17px;
+    margin-left: px;
+    font-weight: 600;
+}
 
 
 
