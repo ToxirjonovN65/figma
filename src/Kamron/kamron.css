@@ -15,7 +15,8 @@
     background-image: url("./images/7701b6d3dd9dae824274ea54a219e6c9146d234c\ \(1\).jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
+    color: white;
 }
 .right h1{
     font-size: 1rem;
