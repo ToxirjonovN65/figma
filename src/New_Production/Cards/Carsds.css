@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cards{
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 2rem 10rem;
+    color: white;
+}
+.bottom_cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.card_1{
+    width: 576px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    background-image: url("./images/2cadb3c91468a0e53f9836568403cada98570072.jpg");
+}
+.card_2{
+    width: 576px;
+    height: 600px;
+    background-image: url("./images/ea5346f62f8240765dc431626ef67d482ba31362.jpg");
+}
+.card_3{
+    width: 576px;
+    height: 600px;
+    background-image: url("./images/0fbad9fdd712b9f01e916c93c40b2f7b9205d3e4.jpg");
+}
+.card_4{
+    width: 576px;
+    height: 600px;
+    background-image: url("./images/b606baefc97ec99c16b3026389d49a00f7e69e32.jpg");
+}
