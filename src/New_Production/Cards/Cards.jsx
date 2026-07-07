@@ -1,5 +1,9 @@
 import React from 'react'
+<<<<<<< Updated upstream
 import './Carsds.css'
+=======
+import './Cards.css'
+>>>>>>> Stashed changes
 
 const Cards = () => {
   return (
